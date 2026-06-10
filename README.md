@@ -42,4 +42,4 @@ A dark theme for Visual Studio Code.
 
 ## Preview
 
-![Nicolet FEAR Dark Theme](images/VSCode Theme.png)
+![Nicolet FEAR Dark Theme](images/VSCode-Theme.png)
