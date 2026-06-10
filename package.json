@@ -2,7 +2,7 @@
   "name": "nicolet-fear-dark",
   "displayName": "NicoletFEAR",
   "description": "This is the dark theme for the FRC Team, 4786, Nicolet FEAR",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.120.0"
   },
