@@ -5,7 +5,7 @@ A dark theme for Visual Studio Code.
 ## Installation
 
 1. Go to the [Releases](../../releases) page of this repository
-2. Download the latest `nicolet-fear-dark-0.0.1.vsix` file
+2. Download the latest `nicolet-fear-dark-1.0.0.vsix` file
 3. Open VS Code
 4. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac)
 5. Type **Extensions: Install from VSIX…** and select it
