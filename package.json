@@ -1,24 +1,25 @@
 {
-  "name": "nicolet-fear-dark",
-  "displayName": "NicoletFEAR",
-  "description": "This is the dark theme for the FRC Team, 4786, Nicolet FEAR",
-  "version": "0.0.3",
+"name": "nicolet-fear-dark",
+"displayName": "NicoletFEAR",
+"description": "This is the dark theme for the FRC Team, 4786, Nicolet FEAR",
+"version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/Souklopath/nicolet-fear-dark"
   },
-  "engines": {
-    "vscode": "^1.120.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-      {
-        "label": "Nicolet FEAR",
-        "uiTheme": "hc-black",
-        "path": "./themes/Nicolet-FEAR-color-theme.json"
-      }
-    ]
-  }
+"engines": {
+"vscode": "^1.120.0"
+},
+"categories": [
+"Themes"
+],
+"contributes": {
+"themes": [
+{
+"label": "Nicolet FEAR",
+"uiTheme": "hc-black",
+"path": "./themes/Nicolet-FEAR-color-theme.json"
+}
+]
+}
 }
