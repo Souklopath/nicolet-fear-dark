@@ -17,7 +17,7 @@
 "themes": [
 {
 "label": "Nicolet FEAR",
-"uiTheme": "hc-black",
+"uiTheme": "vs-dark",
 "path": "./themes/Nicolet-FEAR-color-theme.json"
 }
 ]
